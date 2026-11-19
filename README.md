@@ -472,10 +472,10 @@ This project is intended strictly for education purposes only.
 
 # 👤 Author
 
-**AZIAGBEDO KOKOU SODJINE**\
+**Kynan Patel**\
 Cybersecurity Professional B084
 
-LinkedIn: https://www.linkedin.com/in/kokou-sodjin%C3%A8-aziagbedo-434b2949
+LinkedIn: www.linkedin.com/in/kynan-patel-794133423
 
 ---
 
