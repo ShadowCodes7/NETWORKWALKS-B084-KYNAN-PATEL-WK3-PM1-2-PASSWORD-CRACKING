@@ -271,7 +271,7 @@ We opened the locked PDF file and entered the cracked password **`password1`**.
 
 ---
 
-![2_step_8.png](/Screenshots/2_Step8.png)
+![2_step_8.png](Screenshots/2_Step8.png)
 
 ---
 
