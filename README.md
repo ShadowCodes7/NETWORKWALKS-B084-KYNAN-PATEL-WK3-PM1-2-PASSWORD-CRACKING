@@ -88,7 +88,7 @@ The executable file **john.exe** is located in the run folder:
 
 ---
 
-![1_step_2.png](/screenshots/1_step_2.png)
+![1_step_2.png](/Screenshots/1_Step2.png)
 
 ---
 
@@ -106,7 +106,7 @@ We uploaded the file `/downloads/My Locked PDF1.pdf` and got its hash. We copied
 
 ---
 
-![1_step_3.png](/screenshots/1_step_3.png)
+![1_step_3.png](/Screenshots/1_Step3.png)
 
 ---
 
@@ -116,7 +116,7 @@ We opened Jonny and clicked on **Open password file**. We browsed to the saved *
 
 ---
 
-![1_step_4.png](/screenshots/1_step_4.png)
+![1_step_4.png](/Screenshots/1_Step4.png)
 
 ---
 
@@ -124,7 +124,7 @@ We clicked on **Start new attack**. The PDF file password was cracked.
 
 ---
 
-![1_step_5.png](/screenshots/1_step_5.png)
+![1_step_5.png](/Screenshots/1_Step5.png)
 
 ---
 
@@ -136,7 +136,7 @@ We opened the encrypted file `/downloads/My Locked PDF1.pdf` and entered the pas
 
 ---
 
-![1_step_6.png](/screenshots/1_step_6.png)
+![1_step_6.png](/Screenshots/1_Step6.png)
 
 ---
 
@@ -144,7 +144,7 @@ We validated the password and the PDF file opened.
 
 ---
 
-![1_step_7.png](/screenshots/1_step_7.png)
+![1_step_7.png](Screenshots/1_Step7.png)
 
 ---
 
@@ -154,7 +154,7 @@ The captured flag is **`nw{cybersecurity_flag_captured_2608}`**.
 
 ---
 
-![1_flag1.png](/screenshots/1_falg1.png)
+![1_flag1.png](Screenshots/1_Step7.png)
 
 ---
 
@@ -201,7 +201,7 @@ We downloaded the encrypted PDF file **`My Locked PDF1 (for NW Tools Lab WK3-PM2
 
 ---
 
-![2_step_1.png](/screenshots/2_step_1.png)
+![2_step_1.png](/Screenshots/2_Step1.png)
 
 ---
 
@@ -211,7 +211,7 @@ We opened the Networkwalks Hash Calculator in our web browser.
 
 ---
 
-![2_step_2.png](/screenshots/2_step_2.png)
+![2_step_2.png](/Screenshots/2_Step2.png)
 
 ---
 
@@ -221,7 +221,7 @@ We uploaded the downloaded locked PDF file to the Hash Calculator. And we got th
 
 ---
 
-![2_step_3.png](/screenshots/2_step_3.png)
+![2_step_3.png](/Screenshots/2_Step3.png)
 
 ---
 
@@ -237,7 +237,7 @@ We opened the Networkwalks Password Cracker in your web browser.
 
 ---
 
-![2_step_5.png](/screenshots/2_step_5.png)
+![2_step_5.png](/Screenshots/2_Step5.png)
 
 ---
 
@@ -247,7 +247,7 @@ We pasted the hash value in the Password Cracker.
 
 ---
 
-![2_step_6.png](/screenshots/2_step_6.png)
+![2_step_6.png](/Screenshots/2_Step6.png)
 
 ---
 
@@ -257,7 +257,7 @@ We started the attack. The tool tried different passwords until it found the mat
 
 ---
 
-![2_step_7.png](/screenshots/2_step_7.png)
+![2_step_7.png](/Screenshots/2_Step7.png)
 
 ---
 
@@ -271,7 +271,7 @@ We opened the locked PDF file and entered the cracked password **`password1`**.
 
 ---
 
-![2_step_8.png](/screenshots/2_step_8.png)
+![2_step_8.png](/Screenshots/2_Step8.png)
 
 ---
 
@@ -281,7 +281,7 @@ We validated the entered password and the locked PDF file opened successfully.
 
 ---
 
-![2_step_9.png](/screenshots/2_step_9.png)
+![2_step_9.png](/Screenshots/2_Step9.png)
 
 ---
 
@@ -291,7 +291,7 @@ The captured flag is **`nw{networkwalks_flag1_jtr_270521_1}`**.
 
 ---
 
-![2_flag1.png](/screenshots/2_falg1.png)
+![2_flag1.png](/Screenshots/2_Step9.png)
 
 ---
 
