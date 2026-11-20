@@ -299,7 +299,8 @@ The captured flag is **`nw{networkwalks_flag1_jtr_270521_1}`**.
 
 We recorded a short video of the project completion.
 
-![Project003.mp4](/Project003.mp4)
+[Project003.zip](https://github.com/user-attachments/files/35134848/Project003.zip)
+
 
 ---
 
