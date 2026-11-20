@@ -70,7 +70,7 @@ We downloaded John the Ripper (JTR) JOHN and Johnny GUI from the official websit
 
 ---
 
-![1_step_1.png](/Screenshots/1- Step 1.png)
+![1_step_1.png](/Screenshots/1_Step1.png)
 
 ---
 
